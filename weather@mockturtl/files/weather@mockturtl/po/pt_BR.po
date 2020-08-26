@@ -413,11 +413,11 @@ msgstr "Limpo"
 
 #: 3.0/openWeatherMap.js:407 3.8/openWeatherMap.js:361
 msgid "Clear sky"
-msgstr "Ceu limpo"
+msgstr "Céu limpo"
 
 #: 3.0/openWeatherMap.js:408 3.8/openWeatherMap.js:362
 msgid "Sky is clear"
-msgstr "O ceu está limpo"
+msgstr "O céu está limpo"
 
 #: 3.0/openWeatherMap.js:409 3.8/openWeatherMap.js:363
 msgid "Clouds"
@@ -470,7 +470,7 @@ msgstr ""
 
 #: 3.0/met_norway.js:285 3.0/met_norway.js:286 3.8/met_norway.js:237 3.8/met_norway.js:238
 msgid "Clear Sky"
-msgstr "Ceu Limpo"
+msgstr "Céu Limpo"
 
 #: 3.0/met_norway.js:292 3.0/met_norway.js:293 3.0/yahoo.js:466 3.0/met_uk.js:580 3.0/met_uk.js:581
 #: 3.0/climacell.js:389 3.0/climacell.js:390 3.8/met_norway.js:244 3.8/met_norway.js:245
